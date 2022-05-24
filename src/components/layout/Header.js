@@ -31,7 +31,7 @@ const Header = ({
   ...props
 }) => {
 
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
 
   const [isActive, setIsactive] = useState(false);
 
