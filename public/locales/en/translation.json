@@ -1,0 +1,81 @@
+{
+    "hero": {
+        "h1": {
+            "primary": "Guerra",
+            "secondary": "Sinuhe"
+        },
+        "subtitle": "Developer at Shopify, Founder and Consultant at Naos",
+        "primaryAction": "View on LinkedIn",
+        "darkAction": "View on Github"
+    },
+    "featuresTiles": {
+        "title": "Skills",
+        "paragraph": "Generalist Software Engineer",
+        "tiles1": {
+            "title": "Python",
+            "paragraph": "Avanced knowlege"
+        },
+        "tiles2": {
+            "title": "JavaScript",
+            "paragraph": "Avanced knowlege"
+        },
+        "tiles3": {
+            "title": "C#",
+            "paragraph": "Avanced knowlege"
+        },
+        "tiles4": {
+            "title": "AWS",
+            "paragraph": "Avanced knowlege"
+        },
+        "tiles5": {
+            "title": "Google Cloud",
+            "paragraph": "Avanced knowlege"
+        },
+        "tiles6": {
+            "title": "Azure",
+            "paragraph": "Avanced knowlege"
+        }
+    },
+    "featuresSlip": {
+        "title": "Experience",
+        "paragraph": "14+ years of experience!",
+        "slip1": {
+            "primary": "Founder & Consultant",
+            "h3": "Naos LLC",
+            "paragraph": "Working with a team of developers specialized on building mobile and web apps."
+        },
+        "slip2": {
+            "primary": "Developer",
+            "h3": "Shopify",
+            "paragraph": "App Developer Experience Team"
+        },
+        "slip3": {
+            "primary": "Software Development Engineer II",
+            "h3": "Amazon.com",
+            "paragraph": "Team: LEO Engineering a.k.a. Amazon Creative Services"
+        }
+    },
+    "testimonials": {
+        "title": "Education and Volunteering",
+        "paragraph": "Prepared to help the comunity.",
+        "tile1": {
+            "paragraph": "Bachelor of Engineering (B.Eng.) in Telematics",
+            "primary": "Mexico City",
+            "organization": "IPN"
+        },
+        "tile2": {
+            "paragraph": "Supporting participants with weekly sessions to resolve technical questions on their year-long full-time software engineering training program in order to help women and non-binary adults overcome barriers into the tech industry #BridgeTheTechGap.",
+            "primary": "Mentor",
+            "organization": "Techtonica"
+        },
+        "tile3": {
+            "paragraph": "I worked with Sinuhé for a few years. He is a terrific team player, always willing to help and mentor. I also remember him continuously brainstorming ideas in our meetings and taking the lead for designing or improving processes and systems. He is smart, responsible and has great time management skills.",
+            "primary": "Carlos Anaya",
+            "organization": "Senior Software Engineer"
+        }
+    },
+    "footer": {
+        "madeBy": "Template made by",
+        "rightsReserved": "All rights reserved."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "hero": {
+        "h1": {
+            "primary": "Guerra Hernandez",
+            "secondary": "Sinuhé"
+        },
+        "subtitle": "Desarrollador en Shopify, Fundador y consultor en Naos LLC",
+        "primaryAction": "Ver en LinkedIn",
+        "darkAction": "Ver en Github"
+    },
+    "featuresTiles": {
+        "title": "Habilidades Técnicas",
+        "paragraph": "Ingeniero de Sofware Generalista",
+        "tiles1": {
+            "title": "Python",
+            "paragraph": "Avanzado"
+        },
+        "tiles2": {
+            "title": "JavaScript",
+            "paragraph": "Avanzado"
+        },
+        "tiles3": {
+            "title": "C#",
+            "paragraph": "Avanzado"
+        },
+        "tiles4": {
+            "title": "AWS",
+            "paragraph": "Avanzado"
+        },
+        "tiles5": {
+            "title": "Google Cloud",
+            "paragraph": "Avanzado"
+        },
+        "tiles6": {
+            "title": "Azure",
+            "paragraph": "Avanzado"
+        }
+    },
+    "featuresSlip": {
+        "title": "Experiencia",
+        "paragraph": "¡Más de 14 años de experiencia!",
+        "slip1": {
+            "primary": "Fundador y Consultor",
+            "h3": "Naos LLC",
+            "paragraph": "Trabajando con un equipo especializado en desarrollo de applicaciones móviles."
+        },
+        "slip2": {
+            "primary": "Desarrollador",
+            "h3": "Shopify",
+            "paragraph": "Equipo: App Developer Experience"
+        },
+        "slip3": {
+            "primary": "Software Development Engineer II",
+            "h3": "Amazon.com",
+            "paragraph": "Equipo: LEO Engineering también conocido como Amazon Creative Services"
+        }
+    },
+    "testimonials": {
+        "title": "Educación y Voluntariado",
+        "paragraph": "Preparado para apoyar a la comunidad.",
+        "tile1": {
+            "paragraph": "Ingenieria en Telemática",
+            "primary": "Ciudad de México",
+            "organization": "IPN"
+        },
+        "tile2": {
+            "paragraph": "Ayudando a los participantes del programa con sesiones semanales en las que les resuelvo cualquier duda técnica y profesiona. Programa orientad a ayudar a mujeres y a adultos de géneros no binarios.  #BridgeTheTechGap.",
+            "primary": "Mentor",
+            "organization": "Techtonica"
+        },
+        "tile3": {
+            "paragraph": "Trabajé con Sinuhé algunos años. Sinuhé sabe contribuir a un equipo y siempre esta disponible para apoyar y enseñar.",
+            "primary": "Carlos Anaya",
+            "organization": "Ingeniero de Software Senior"
+        }
+    },
+    "footer": {
+        "madeBy": "Plantilla hecha por",
+        "rightsReserved": "Todos los derechos reservados."
+    }
+}
