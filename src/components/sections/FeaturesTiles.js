@@ -142,7 +142,7 @@ const FeaturesTiles = ({
                     {t("featuresTiles.tiles4.title")}
                     </h4>
                   <p className="m-0 text-sm">
-                    {t("featuresTiles.tile4.paragraph")}
+                    {t("featuresTiles.tiles4.paragraph")}
                     </p>
                 </div>
               </div>

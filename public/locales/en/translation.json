@@ -1,4 +1,10 @@
 {
+    "header": {
+        "languages": {
+            "en": "English",
+            "es": "Español"
+        }
+    },
     "hero": {
         "h1": {
             "primary": "Guerra",
@@ -13,27 +19,27 @@
         "paragraph": "Generalist Software Engineer",
         "tiles1": {
             "title": "Python",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Advanced"
         },
         "tiles2": {
             "title": "JavaScript",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Advanced"
         },
         "tiles3": {
             "title": "C#",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Advanced"
         },
         "tiles4": {
             "title": "AWS",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Intermediate"
         },
         "tiles5": {
             "title": "Google Cloud",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Beginner"
         },
         "tiles6": {
             "title": "Azure",
-            "paragraph": "Avanced knowlege"
+            "paragraph": "Intermediate"
         }
     },
     "featuresSlip": {

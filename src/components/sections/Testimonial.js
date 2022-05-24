@@ -71,7 +71,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">{t("testimonials.tile1.primary")}</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">{t("testimonials.tile1.organization")}</a>
+                    <a href="https://www.ipn.mx/">{t("testimonials.tile1.organization")}</a>
                   </span>
                 </div>
               </div>
@@ -88,7 +88,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">{t("testimonials.tile2.primary")}</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">{t("testimonials.tile2.organization")}</a>
+                    <a href="https://techtonica.org/">{t("testimonials.tile2.organization")}</a>
                   </span>
                 </div>
               </div>
@@ -105,7 +105,7 @@ const Testimonial = ({
                   <span className="testimonial-item-name text-color-high">{t("testimonials.tile3.primary")}</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">{t("testimonials.tile3.organization")}</a>
+                    <a href="https://www.linkedin.com/in/carlosanayab/">{t("testimonials.tile3.organization")}</a>
                   </span>
                 </div>
               </div>

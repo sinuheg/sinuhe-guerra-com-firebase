@@ -31,7 +31,7 @@ const Header = ({
   ...props
 }) => {
 
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const [isActive, setIsactive] = useState(false);
 
@@ -120,10 +120,10 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={() => changeLocale('en')}>en</Link>
+                      <Link to="#0" onClick={() => changeLocale('en')}>{t("header.languages.en")}</Link>
                     </li>
                     <li>
-                      <Link to="#0" onClick={() => changeLocale('es')}>es</Link>
+                      <Link to="#0" onClick={() => changeLocale('es')}>{t("header.languages.es")}</Link>
                     </li>
                   </ul>
                   {!hideSignin &&

@@ -1,6 +1,13 @@
+# SinuheGuerra.com
+
+This app can be seen live at https://sinuheguerra.com.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Install dependencies:
+`npm install`
 
 ## Available Scripts
 
@@ -41,7 +48,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Deployment
 
-Usin Firebase CLI: https://firebase.google.com/docs/cli#install-cli-mac-linux
+Automatic deployment to Firebase supported by Github Actions. Pushing to main branch triggers the deployment.
+
+Setup using Firebase CLI: https://firebase.google.com/docs/cli#install-cli-mac-linux
+
+## Resourses
+
+React template: https://github.com/cruip/open-react-template/
+Internationalization: https://react.i18next.com/latest/using-with-hooks
 
 ## Learn More
 

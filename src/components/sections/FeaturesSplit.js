@@ -72,7 +72,9 @@ const FeaturesSplit = ({
                   {t("featuresSlip.slip1.primary")}
                   </div>
                 <h3 className="mt-0 mb-12">
-                  {t("featuresSlip.slip1.h3")}
+                  <a href="https://naos.app/en">
+                    {t("featuresSlip.slip1.h3")}
+                  </a>
                   </h3>
                 <p className="m-0">
                   {t("featuresSlip.slip1.paragraph")}
